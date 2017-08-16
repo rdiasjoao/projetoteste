@@ -1,0 +1,21 @@
+.col{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+    background-color:#FDFDFB;
+    }
+
+    .col-centered{
+        float: none;
+        margin: 0 auto;
+    }
+
+    .blue-background{
+        background-color: #47A5F6;
+    }
+    .white-background{
+        background-color: rgba(246, 247, 249, 0.98);
+    }
+
+    .row {
+        display: flex;
+      }
